@@ -1,0 +1,71 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.781);
+    color: white;
+}
+#container{
+    font-family: cursive;
+    background-color:#020536;
+    margin: 0 auto;
+    margin-top: 5%;
+    width: 50%;
+    padding: 35px;
+    border: 5px solid black;
+}
+header{
+    text-align: center;
+    margin: 10px 0;
+    font-size: larger;
+    padding: 10px;
+    font-family: sans-serif;
+}
+.name{
+    padding: 10px;
+    margin: 10px 0;
+    margin-left: 80px;
+}
+.roll{
+    padding: 10px;
+    margin: 10px 0;
+    margin-left: 80px;
+}
+.email{
+    padding: 10px;
+    margin: 10px 0;
+    margin-left: 80px;
+}
+.menu{
+    padding: 10px;
+    margin: 10px 0;
+    margin-left: 80px;
+}
+.file{
+    padding: 10px;
+    margin: 10px 0;
+    margin-left: 80px;
+}
+.comment{
+    padding: 10px;
+    margin: 10px 0;
+    margin-left: 80px;
+}
+.click{
+    padding: 10px;
+    text-align: center;
+    margin: 10px 0;
+}
+#submit{
+    border-radius: 8px;
+    margin-left: 30px;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+}
+#reset{
+    border-radius: 8px;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+}
+
